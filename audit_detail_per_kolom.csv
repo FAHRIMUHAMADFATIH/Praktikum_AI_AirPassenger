@@ -1,0 +1,26 @@
+Kolom,Tipe data,Missing train,Missing test,Nilai unik train
+Unnamed: 0,int64,0,0,103904
+id,int64,0,0,103904
+Gender,object,0,0,2
+Customer Type,object,0,0,2
+Age,int64,0,0,75
+Type of Travel,object,0,0,2
+Class,object,0,0,3
+Flight Distance,int64,0,0,3802
+Inflight wifi service,int64,0,0,6
+Departure/Arrival time convenient,int64,0,0,6
+Ease of Online booking,int64,0,0,6
+Gate location,int64,0,0,6
+Food and drink,int64,0,0,6
+Online boarding,int64,0,0,6
+Seat comfort,int64,0,0,6
+Inflight entertainment,int64,0,0,6
+On-board service,int64,0,0,6
+Leg room service,int64,0,0,6
+Baggage handling,int64,0,0,5
+Checkin service,int64,0,0,6
+Inflight service,int64,0,0,6
+Cleanliness,int64,0,0,6
+Departure Delay in Minutes,int64,0,0,446
+Arrival Delay in Minutes,float64,310,83,455
+satisfaction,object,0,0,2
